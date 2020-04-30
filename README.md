@@ -10,18 +10,18 @@ The Aim of this project was to predict open price of a stock (P&G Stock in my ca
   3. Exploratary Data Analysis and Visualization Dashboards in Tableau.
   4. Competitor Index Development using Principal Component Analysis
   5. Machine Learning Models and Strategies:
-    <br> 1. Linear Regression
-    2. Linear Regression with PCA
-    3. Random Forest Algorithm
-    4. Time Series Forecasting ARIMA model
-    5. Pairs Trading Algorithm
-    6. Garth Model
-    7. Long Short Term Memory (RNN)
+    <br> 1. Linear Regression <\br>
+    <br>2. Linear Regression with PCA<\br>
+    <br>3. Random Forest Algorithm<\br>
+    <br>4. Time Series Forecasting ARIMA model<\br>
+    <br>5. Pairs Trading Algorithm<\br>
+    <br>6. Garth Model<\br>
+    <br>7. Long Short Term Memory (RNN)<\br>
   6. Backtesting and Risk Analysis
-    1. Sharpe Ratio
-    2. Treynor Ratio
-    3. Average Profit
-    4. Hit Rate
+    <br>1. Sharpe Ratio<\br>
+    <br>2. Treynor Ratio<\br>
+    <br>3. Average Profit<\br>
+    <br>4. Hit Rate<\br>
   7. Empirical findings, profits and losses, risk analysis
   
 Observations: ![Model Comparison](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/raw/master/Results.jpg)
