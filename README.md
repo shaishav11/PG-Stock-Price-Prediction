@@ -24,6 +24,6 @@ The Aim of this project was to predict open price of a stock (P&G Stock in my ca
     <br>4. Hit Rate
   7. Empirical findings, profits and losses, risk analysis
   
-Observations: ![Model Comparison](https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/raw/master/Results.jpg)
+Observations: ![Model Comparison](https://github.com/shaishav11/PG-Stock-Price-Prediction/blob/master/Results.jpg)
 
 Conclusion: Linear Regression with PCA proved to be the best model and evaluation of pairs trading algorithm helped us make approx. 111 USD profit on the test data set
