@@ -20,7 +20,7 @@ The Aim of this project was to predict open price of a stock (P&G Stock in my ca
     d. Hit Rate
   7. Empirical findings, profits and losses, risk analysis
   
-Observations: [Model Comparison {https://github.com/parthrana34/Machine-Learning-in-Finance/blob/master/Results.jpg}]
+Observations: [Model Comparison]{https://github.com/parthrana34/INFO-7374-Machine-Learning-in-Finance/raw/master/Results.jpg}
 
 
 
