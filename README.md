@@ -10,7 +10,7 @@ The Aim of this project was to predict open price of a stock (P&G Stock in my ca
   3. Exploratary Data Analysis and Visualization Dashboards in Tableau.
   4. Competitor Index Development using Principal Component Analysis
   5. Machine Learning Models and Strategies:
-    1. Linear Regression
+    <br> 1. Linear Regression
     2. Linear Regression with PCA
     3. Random Forest Algorithm
     4. Time Series Forecasting ARIMA model
